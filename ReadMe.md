@@ -21,7 +21,7 @@ Minha experiência com VCL e sistemas windows me permitem criar interfaces Delph
  Linkedin [/ricardo-da-rocha-vitor-a0983932/ ](https://www.linkedin.com/in/ricardo-da-rocha-vitor-a0983932/)
 
 
-![Painel de Monitoramento](dashboard.png)
+![Painel de Monitoramento](https://github.com/ricardodarocha/Curriculum/blob/master/dashboard.PNG)
 
 # 📡Conhecimento técnico
 
@@ -183,4 +183,5 @@ Ao longo da minha carreira eu participei de vários programas como tutor volunt�
 
     Palestra de Design de Interfaces, para Instituto de Engenharia Elétrica, com ênfase em design de produtos de automação, interfaces e equipamentos do dia a dia. 
 
-![Dashboard VCL](dash.png) 
+![Dashboard VCL](https://github.com/ricardodarocha/Curriculum/blob/master/dash.PNG)
+![Menu VCL](https://github.com/ricardodarocha/Curriculum/blob/master/Menu.PNG) 
